@@ -1,0 +1,39 @@
+html {
+    background-color: midnightBlue;
+    color: darkViolet;
+}
+
+.cookies h2 {
+    background-image: url(../images/textures/light2.png);
+    color: black;
+}
+
+.custard h2 {
+    background-color: black;
+    color: red;
+}
+
+.cookies h1 {
+    background-color: maroon;
+    color: springGreen;
+}
+
+.custard h1 {
+    background-color: black;
+    color: red;
+}
+
+.cookies h3 {
+    background-image: url(../images/textures/light2.png);
+    color: black;
+}
+
+.custard h3 {
+    background-color: black;
+    color: red;
+}
+
+.custard p {
+    background-color: darkred;
+    color: midnightBlue;
+}
